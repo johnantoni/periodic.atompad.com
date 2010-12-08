@@ -1,0 +1,33 @@
+1         atomic number		
+H         chemical symbol		
+Hydrogen	chemical name		
+1	        Relative atomic mass		
+
+0	=	0	Metals
+		1	Transition Metals
+		2 Metalloids
+		3	Nonmetals
+		4	Rare earth metals
+		
+[{ "atomic": 1, "symbol":"H", "name":"Hydrogen", "mass":1, "type":0 }]
+
+
+
+[
+    {
+        "atomic": 1,
+        "symbol": "H",
+        "name": "Hydrogen",
+        "mass": 1,
+        "type": 0 
+    }
+]
+
+
+http://www.jsonlint.com/
+
+periodictab.le
+elemen.ts
+period.ic
+chemic.a.ls
+structu.re

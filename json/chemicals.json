@@ -1,0 +1,54 @@
+[
+	{
+		"Lanthanides": "La",
+		"Actinides": "Ac"
+	},
+	{
+		"Lanthanides": "Ce",
+		"Actinides": "Th"
+	},
+	{
+		"Lanthanides": "Pr",
+		"Actinides": "Pa"
+	},
+	{
+		"Lanthanides": "Nd",
+		"Actinides": "U"
+	},
+	{
+		"Lanthanides": "Pm",
+		"Actinides": "Np"
+	},
+	{
+		"Lanthanides": "Sm",
+		"Actinides": "Pu"
+	},
+	{
+		"Lanthanides": "Eu",
+		"Actinides": "Am"
+	},
+	{
+		"Lanthanides": "Gd",
+		"Actinides": "Cm"
+	},
+	{
+		"Lanthanides": "Tb",
+		"Actinides": "Bk"
+	},
+	{
+		"Lanthanides": "Dy",
+		"Actinides": "Cf"
+	},
+	{
+		"Lanthanides": "Ho",
+		"Actinides": "Es"
+	},
+	{
+		"Lanthanides": "Er",
+		"Actinides": "Fm"
+	},
+	{
+		"Lanthanides": "Tm",
+		"Actinides": "Md"
+	}
+]
